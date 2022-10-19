@@ -1,5 +1,5 @@
 
-# Goorm_OOO_DataCourse
+# Goorm_4th_DataCourse
 
 ## 프로젝트 발걸음 
 
